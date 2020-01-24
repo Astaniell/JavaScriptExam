@@ -1,0 +1,10 @@
+ body{
+    display: flex;
+    flex-direction: column;
+    margin: 0px !important;
+}
+
+
+.table{
+    text-align: center;
+}
